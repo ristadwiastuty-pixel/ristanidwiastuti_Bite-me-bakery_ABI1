@@ -1,4 +1,4 @@
-<style>
+
   :root{
     --cream:#FFF7EE;
     --milk-choco:#C49A6C;
@@ -602,4 +602,3 @@
     .brand{font-size:18px;}
     .search-wrap input{font-size:12.5px; padding:10px 40px 10px 14px;}
   }
-</style>
